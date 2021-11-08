@@ -5,10 +5,9 @@
 
 [Acute Myeloid
 Leukemia](https://en.wikipedia.org/wiki/Acute_myeloid_leukemia)
-(**AML**) is a cancer of myeloid lineage cells in blood. The disease is
-characterized by the rapid (thus acute) accumulation of abnormal cells
-are in bone marrow and blood. Here, we’re collecting a list of papers,
-reviews, and possibly applications.
+(**AML**) is a cancer of myeloid lineage cells in blood. Here, we’re
+collecting a list of papers, reviews, and possibly applications related
+to AML.
 
 [Contributions](#contributions) are more than welcome and encouraged!
 
@@ -33,9 +32,18 @@ reviews, and possibly applications.
 -   A general approach for detecting expressed mutations in AML cells
     using single cell RNA-sequencing ([Nature Comm.,
     2019](https://www.nature.com/articles/s41467-019-11591-1))
--   Scalable Prediction of Acute Myeloid LeukemiaUsing High-Dimensional
-    Machine Learning andBlood Transcriptomics ([iScience,
+-   Scalable Prediction of Acute Myeloid Leukemia Using High-Dimensional
+    Machine Learning and Blood Transcriptomics ([iScience,
     2020](https://reader.elsevier.com/reader/sd/pii/S2589004219305255?token=03FFDAF8BF9CF0FD4231BEE6046B92F81569DBDCB6F288369D0BD62517F94C3E4B91F7896CD6E3D34AFF79FA31AFFBD3&originRegion=eu-west-1&originCreation=20211108125639))
+-   A clinical transcriptome approach to patient stratification and
+    therapy selection in acute myeloid leukemia ([Nature Comm.,
+    2021](https://www.nature.com/articles/s41467-021-22625-y))
+
+### Epigenetics
+
+-   Lineage-specific and single-cell chromatin accessibility charts
+    human hematopoiesis and leukemia evolution\* ([Nature Gen.,
+    2016](https://www.nature.com/articles/ng.3646.pdf))
 
 ### Multiomics
 
@@ -61,12 +69,23 @@ reviews, and possibly applications.
 -   World Health Organization classification of myeloid neoplasms and
     acute leukemia ([Blood,
     2016](https://www.sciencedirect.com/science/article/pii/S0006497120301567))
+-   Genomic Classification and Prognosis in Acute Myeloid Leukemia ([N
+    Engl J Med,
+    2016](https://www.nejm.org/doi/10.1056/NEJMoa1516192?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov))
 -   Diagnosis and management of AML in adults: 2017 ELN recommendations
     from an international expert panel ([Blood,
     2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5291965/#B37))
 -   Validation and refinement of the revised 2017 European Leukemia Net
     genetic risk stratification of acute myeloid leukemia ([Leukemia,
     2020](https://www.nature.com/articles/s41375-020-0806-0.pdf))
+
+### Subtype-spesific
+
+#### NPM1
+
+-   Biological and therapeutic implications of a unique subtype of NPM1
+    mutated AML ([Nature Comm.,
+    2021](https://www.nature.com/articles/s41467-021-21233-0))
 
 ### Reviews
 
