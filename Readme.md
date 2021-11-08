@@ -36,7 +36,6 @@ reviews, and possibly applications.
 -   Scalable Prediction of Acute Myeloid LeukemiaUsing High-Dimensional
     Machine Learning andBlood Transcriptomics ([iScience,
     2020](https://reader.elsevier.com/reader/sd/pii/S2589004219305255?token=03FFDAF8BF9CF0FD4231BEE6046B92F81569DBDCB6F288369D0BD62517F94C3E4B91F7896CD6E3D34AFF79FA31AFFBD3&originRegion=eu-west-1&originCreation=20211108125639))
--   
 
 #### Multiomics
 
@@ -44,12 +43,12 @@ reviews, and possibly applications.
     system enable the purification and massive profiling of precisely
     defined cell states ([bioArXiv,
     2021](https://www.biorxiv.org/content/10.1101/2021.03.18.435922v2))
--   Single-cell multiomic analysis identifies regulatory programs in
-    mixed-phenotype acute leukemia\* ([Nature Biotech.,
-    2019](https://www.nature.com/articles/s41587-019-0332-7.pdf))
 -   Identification of leukemic and pre-leukemic stem cells by clonal
     tracking from single-cell transcriptomics ([Nature Comm.,
     2021](https://www.nature.com/articles/s41467-021-21650-1))
+-   Single-cell multiomic analysis identifies regulatory programs in
+    mixed-phenotype acute leukemia\* ([Nature Biotech.,
+    2019](https://www.nature.com/articles/s41587-019-0332-7.pdf))
 
 #### DNA
 
