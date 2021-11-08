@@ -16,7 +16,7 @@ reviews, and possibly applications.
 > in AML at single-cell scale, thus making the repo biased towards
 > related papers.
 
-#### Transcriptomics
+### Transcriptomics
 
 -   A 17-gene stemness score for rapid determination of risk in acute
     leukaemia ([Nature,
@@ -37,7 +37,7 @@ reviews, and possibly applications.
     Machine Learning andBlood Transcriptomics ([iScience,
     2020](https://reader.elsevier.com/reader/sd/pii/S2589004219305255?token=03FFDAF8BF9CF0FD4231BEE6046B92F81569DBDCB6F288369D0BD62517F94C3E4B91F7896CD6E3D34AFF79FA31AFFBD3&originRegion=eu-west-1&originCreation=20211108125639))
 
-#### Multiomics
+### Multiomics
 
 -   Single-cell proteo-genomic reference maps of the hematopoietic
     system enable the purification and massive profiling of precisely
@@ -50,13 +50,13 @@ reviews, and possibly applications.
     mixed-phenotype acute leukemia\* ([Nature Biotech.,
     2019](https://www.nature.com/articles/s41587-019-0332-7.pdf))
 
-#### DNA
+### DNA
 
 -   Single-cell mutation analysis of clonal evolution in myeloid
     malignancies\* ([Nature,
     2020](https://www.nature.com/articles/s41586-020-2864-x))
 
-#### Generic Classifications
+### Generic Classifications
 
 -   World Health Organization classification of myeloid neoplasms and
     acute leukemia ([Blood,
@@ -68,7 +68,7 @@ reviews, and possibly applications.
     genetic risk stratification of acute myeloid leukemia ([Leukemia,
     2020](https://www.nature.com/articles/s41375-020-0806-0.pdf))
 
-#### Reviews
+### Reviews
 
 -   Not Only Mutations Matter: Molecular Picture of Acute Myeloid
     Leukemia Emerging from Transcriptome Studies ([Journal of Oncology,

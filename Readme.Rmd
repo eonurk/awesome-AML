@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
 
 > Note: I am mostly interested in transcriptional and epigenetic changes in AML at single-cell scale, thus making the repo biased towards related papers.
 
-#### Transcriptomics
+### Transcriptomics
 - A 17-gene stemness score for rapid determination of risk in acute leukaemia ([Nature, 2016](https://www.nature.com/articles/nature20598.pdf)) 
 - Single-Cell RNA-Seq Reveals AML Hierarchies Relevant to Disease Progression and Immunity ([Cell, 2019](https://www.cell.com/cell/fulltext/S0092-8674(19)30094-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419300947%3Fshowall%3Dtrue))
 - A single-cell survey of cellular hierarchy in acute myeloid leukemia ([Journal of Hematology & Oncology, 2020](https://jhoonline.biomedcentral.com/track/pdf/10.1186/s13045-020-00941-y.pdf))
@@ -31,20 +31,20 @@ knitr::opts_chunk$set(
 - Scalable Prediction of Acute Myeloid LeukemiaUsing High-Dimensional Machine Learning andBlood Transcriptomics ([iScience, 2020](https://reader.elsevier.com/reader/sd/pii/S2589004219305255?token=03FFDAF8BF9CF0FD4231BEE6046B92F81569DBDCB6F288369D0BD62517F94C3E4B91F7896CD6E3D34AFF79FA31AFFBD3&originRegion=eu-west-1&originCreation=20211108125639))
 
 
-#### Multiomics
+### Multiomics
 - Single-cell proteo-genomic reference maps of the hematopoietic system enable the purification and massive profiling of precisely defined cell states ([bioArXiv, 2021](https://www.biorxiv.org/content/10.1101/2021.03.18.435922v2))
 - Identification of leukemic and pre-leukemic stem cells by clonal tracking from single-cell transcriptomics ([Nature Comm., 2021](https://www.nature.com/articles/s41467-021-21650-1))
 - Single-cell multiomic analysis identifies regulatory programs in mixed-phenotype acute leukemia* ([Nature Biotech., 2019](https://www.nature.com/articles/s41587-019-0332-7.pdf))
 
-#### DNA
+### DNA
 - Single-cell mutation analysis of clonal evolution in myeloid malignancies* ([Nature, 2020](https://www.nature.com/articles/s41586-020-2864-x))
 
-#### Generic Classifications
+### Generic Classifications
 - World Health Organization classification of myeloid neoplasms and acute leukemia ([Blood, 2016](https://www.sciencedirect.com/science/article/pii/S0006497120301567))
 - Diagnosis and management of AML in adults: 2017 ELN recommendations from an international expert panel ([Blood, 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5291965/#B37))
 - Validation and refinement of the revised 2017 European Leukemia Net genetic risk stratification of acute myeloid leukemia ([Leukemia, 2020](https://www.nature.com/articles/s41375-020-0806-0.pdf))
 
-#### Reviews
+### Reviews
 - Not Only Mutations Matter: Molecular Picture of Acute Myeloid Leukemia Emerging from Transcriptome Studies ([Journal of Oncology, 2019](https://www.hindawi.com/journals/jo/2019/7239206/))
 - Single-Cell RNA Sequencing to Disentangle the Blood System ([Arteriosclerosis, Thrombosis, and Vascular Biology, 2021](https://www.ahajournals.org/doi/10.1161/ATVBAHA.120.314654))
 - Hematopoietic Stem Cell: Self-renewal versus Differentiation ([Wiley Interdiscip Rev Syst Biol Med., 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2950323/))
