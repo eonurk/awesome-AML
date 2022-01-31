@@ -62,8 +62,8 @@ to AML.
 
 -   EuroFlow antibody panels for standardized *n*-dimensional flow
     cytometric immunophenotyping of normal, reactive and malignant
-    leukocytes [Leukemia,
-    2012](https://www.nature.com/articles/leu2012120)
+    leukocytes ([Leukemia,
+    2012](https://www.nature.com/articles/leu2012120))
 
 ### DNA
 
@@ -71,8 +71,8 @@ to AML.
     malignancies\* ([Nature,
     2020](https://www.nature.com/articles/s41586-020-2864-x))
 -   The Origin and Evolution of Mutations in Acute Myeloid Leukemia
-    [Cell,
-    2012](https://www.cell.com/cell/pdfExtended/S0092-8674(12)00777-5)
+    ([Cell,
+    2012](https://www.cell.com/cell/pdfExtended/S0092-8674(12)00777-5))
 
 ### Generic Classifications
 
